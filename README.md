@@ -1,5 +1,5 @@
-# ShegProjects
-my project directory for revision and public views
+# QrcodeGenerator
+My first python project
 
 QrcodeGenerator is my first program in pyhon.
 its dependent on pyqrcode by @mnooner256.
